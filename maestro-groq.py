@@ -9,7 +9,7 @@ import json
 from groq import Groq
 import os
 
-client = Groq(api_key="YOUR API KEY")
+client = Groq(api_key="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")
 
 # Define the models to use for each agent
 ORCHESTRATOR_MODEL = "mixtral-8x7b-32768"
